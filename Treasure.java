@@ -17,7 +17,7 @@ public class Treasure extends RoomContent {
 			System.out.println("Ignis's Hair rolls a dice of six and it either damage you heavily, do nothing or kills the enemy");
 			break;
 		case "Dragon's Breath":
-			System.out.println("Bomboş bir özellik, alma. 5 yaz geç.");
+			System.out.println("Dragon's Breath  gives you either passive health regen +5 after every round or +5 base damage");
 			break;}
 			System.out.println("----------------------------------------------");}
 }
